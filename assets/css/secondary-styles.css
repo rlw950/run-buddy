@@ -31,3 +31,11 @@
     color: #39a6b2;
     margin: 10px 0 10px 0;
 }
+.hero-secondary {
+    height: 200px;
+    margin: 20px;
+    background-position: bottom;
+    background-color: black;
+    font-size: 20px;
+    color: red;
+}
